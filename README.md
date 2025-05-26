@@ -1,7 +1,7 @@
 # 👾 Welcome to my GitHub Profile! 👾
-Hello, my name is ogaxe, I am a developer from Poland and I specialize in cybersecurity based on malware, reverse engineering and spreading techniques
-📫 How to reach me syntholl on discord
-⚡ Fun fact I love coding malware
+  -Hello, my nickname is ogaxe, synthol. I am a developer from Poland and I specialize in cybersecurity based on malware, reverse engineering and spreading techniques
+  -📫 How to reach me syntholl on discord
+  -⚡ Fun fact I love coding malware
 
 # 🛠️ Tech Stack:
   - Programming Languages: Python
@@ -27,6 +27,6 @@ Hello, my name is ogaxe, I am a developer from Poland and I specialize in cybers
 ![](https://github-profile-trophy.vercel.app/?username=ogxae&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 🔒 Disclaimer:
-  - All tools published on the profile are for educational and ethical purposes. I do not support illegal activities and am not responsible for the misuse of tools.
+  - All tools published on the profile ArE FoR eDuCaTiOnAl AnD eThIcAl PuRpOsEs. I do not support illegal activities and am not responsible for the misuse of tools.
 
 # Have A Nice Day
