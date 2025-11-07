@@ -1,20 +1,49 @@
-# 👾 Welcome to my GitHub Profile! 👾
-  - Hello, my nickname is ogaxe, synthol. I am a developer from Poland and I specialize in cybersecurity based on malware, reverse engineering and spreading techniques
-  - 📫 How to reach me syntholl on discord
-  - ⚡ Fun fact I love coding malware
+# 👋 Hi i'm synthol 👋
+
+**Full-Stack Developer & Security Expert**
+
+---
+
+### 💻 About Me 
+Full-stack developer specializing in **backend** & **frontend** development with the latest technologies.  
+Expert in **cybersecurity**, **anti-DDoS protection**, and building **malware** with private technologies.
+
+🔐 **Building Secure, Undetected solutions**
+I design and develop solutions that are:
+- **Secure:** Malware enginering, penetration testing, and vulnerability assessment  
+- **Private:** Private vulnerability assets, exploit, malware
+- **Handmade** Code writed handly and especially analyzed in terms of safety
+
+Known in the community as **synthol or ogxae**, I focus on **malware development**. **OpSec and OSINT**, **Cryptography, Encryption, and Decryption** and **Pentesting and Exploits**.
+
+---
 
 # 🛠️ Tech Stack:
-  - Programming Languages: Python
-  - Learning Languages: C++, C#
-  
-# 🎁 Cybersecurity Expertise:
-  - Malware Analysis: specialized in Reverse engineering and malware analysis
-  - Malware Creation: FUD (ScanTime, RunTime)
-  - Advanced malware spreading
 
-# 📌 My Projects:
-  - [🔒] BloodyLine Stealer - Private Discord Token Grabber
-  - [🔒] BloodyObfuscator - Private Powerful python obfuscator, fud for any antivirus with good antidebug
+#### Programming Languages
+- **Python**, **JavaScript**, **C#**, **PowerShell**
+
+#### Frontend 
+- **Tailwind CSS**
+
+#### Security & Server Hardening  
+- Server Configuration & Hardening  
+- Performance Optimization  
+- Penetration Testing & Security Audits  
+- Anti-DDoS Protection & Traffic Analysis
+- Fully Profesional Malware Building & Encrypting
+- Network Security
+
+### 🚀 Recent Projects
+
+#### [🔒] Rize Project
+🛡️ **Next-generation Advanced Malware** - With good menagement and fast updates & fixes
+- Fully FUD Scantime & Runtime, powerfull encrypting methods & obfuscation
+- Cooperation with popular API's like Discord, Telegram
+- High-performance and beginner-friendly
+
+### 📫 Contact  
+💬 **Discord:** `syntholl`  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ogxae&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
@@ -25,8 +54,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ogxae&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-# 🔒 Disclaimer:
-  - All tools published on the profile ArE FoR eDuCaTiOnAl AnD eThIcAl PuRpOsEs. I do not support illegal activities and am not responsible for the misuse of tools.
-
-# Have A Nice Day
