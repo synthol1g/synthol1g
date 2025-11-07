@@ -42,6 +42,8 @@ Known in the community as **synthol or ogxae**, I focus on **malware development
 - Cooperation with popular API's like Discord, Telegram
 - High-performance and beginner-friendly
 
+---
+
 ### 📫 Contact  
 💬 **Discord:** `syntholl`  
 
