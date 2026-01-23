@@ -21,7 +21,7 @@ Known in the community as **synthol or ogxae**, I focus on **malware development
 # 🛠️ Tech Stack:
 
 #### Programming Languages
-- **Python**, **JavaScript**, **C#**, **PowerShell**
+- **Python**, **JavaScript**
 
 #### Frontend 
 - **Tailwind CSS**
