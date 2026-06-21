@@ -5,16 +5,15 @@
 ---
 
 ### 💻 About Me 
-Full-stack developer specializing in **backend** & **frontend** development with the latest technologies.  
-Expert in **cybersecurity**, **anti-DDoS protection**, and building **malware** with private technologies.
+Full-Stack Developer and Security Researcher focused on building secure, high-performance solutions and exploring modern technologies.
 
-🔐 **Building Secure, Undetected solutions**
+🔐 **Building Secure, High-Performance Infrastructure**
 I design and develop solutions that are:
-- **Secure:** Malware enginering, penetration testing, and vulnerability assessment  
-- **Private:** Private vulnerability assets, exploit, malware
-- **Handmade** Code writed handly and especially analyzed in terms of safety
+- **Secure:** Researching vulnerabilities, analyzing systems, and improving protection
+- **Performance:** Building fast, optimized and reliable solutions
+- **Innovation:** Exploring new technologies and advanced concepts
 
-Known in the community as **synthol or ogxae**, I focus on **malware development**. **OpSec and OSINT**, **Cryptography, Encryption, and Decryption** and **Pentesting and Exploits**.
+Known in the community as **synthol**, I focus on **malware development**. **OpSec and OSINT**, **Cryptography, Encryption, and Decryption** and **Pentesting and Exploits**.
 
 ---
 
@@ -25,6 +24,11 @@ Known in the community as **synthol or ogxae**, I focus on **malware development
 
 #### Frontend 
 - **Tailwind CSS**
+- **Responsive Design**
+- **UI/UX Development**
+- **Component-Based Architecture**
+- **Modern Web Interfaces**
+- **Performance Optimization**
 
 #### Security & Server Hardening  
 - Server Configuration & Hardening  
@@ -33,14 +37,6 @@ Known in the community as **synthol or ogxae**, I focus on **malware development
 - Anti-DDoS Protection & Traffic Analysis
 - Fully Profesional Malware Building & Encrypting
 - Network Security
-
-### 🚀 Recent Projects
-
-#### [🔒] Rize Project
-🛡️ **Next-generation Advanced Malware** - With good menagement and fast updates & fixes
-- Fully FUD Scantime & Runtime, powerfull encrypting methods & obfuscation
-- Cooperation with popular API's like Discord, Telegram
-- High-performance and beginner-friendly
 
 ---
 
