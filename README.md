@@ -13,7 +13,7 @@ I design and develop solutions that are:
 - **Performance:** Building fast, optimized and reliable solutions
 - **Innovation:** Exploring new technologies and advanced concepts
 
-Known in the community as **synthol**, I focus on **malware development**. **OpSec and OSINT**, **Cryptography, Encryption, and Decryption** and **Pentesting and Exploits**.
+Known in the community as **synthol**, I focus on **malware development**. **OpSec and OSINT & CSINT**, **Cryptography, Encryption, and Decryption** and **Pentesting and Exploits**.
 
 ---
 
