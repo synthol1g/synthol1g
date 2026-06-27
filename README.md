@@ -44,11 +44,11 @@ Known in the community as **synthol**, I focus on **malware development**. **OpS
 💬 **Discord:** `syntholl`  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ogxae&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=ogxae&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ogxae&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ogxae&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ogxae&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=synthol1g&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=synthol1g&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=synthol1g&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=synthol1g&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=synthol1g&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ogxae&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=synthol1g&theme=radical&no-frame=false&no-bg=false&margin-w=4)
