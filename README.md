@@ -41,7 +41,7 @@ Known in the community as **synthol**, I focus on **malware development**. **OpS
 ---
 
 ### 📫 Contact  
-💬 **Discord:** `syntholl`  
+💬 **Discord:** `synthol1g`  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=synthol1g&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
